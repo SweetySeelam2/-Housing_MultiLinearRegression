@@ -20,19 +20,17 @@ The dataset consists of various features that influence the price of houses. The
 - Price: The target variable (dependent variable) representing the cost of the house
 
 ## Project Structure
-```
-├── data/                        # Dataset files (if applicable)
-├── images/                      # Visualizations and model performance plots
-│   ├── Actual_vs_Predicted.png  # Scatter plot of actual vs predicted values
-│   ├── Boxplots.png             # Categorical variable boxplots
-│   ├── Residuals_Distribution.png # Residual histogram
-│   ├── MSE_R2_Comparison.png    # MSE and R-squared scores across models
-│   ├── OLS_Regression_Results.png # Summary of OLS regression results
-│   ├── VIF_Analysis.png         # Variance Inflation Factor analysis
-├── Housing_Multi_Linear_Regression.ipynb  # Jupyter notebook for analysis
-├── requirements.txt             # Python dependencies
-├── README.md                    # Project documentation (this file)
-```
+Dataset files (if applicable)
+Visualizations and model performance plots
+Scatter plot of actual vs predicted values
+Categorical variable boxplots
+Residual histogram
+MSE and R-squared scores across models
+Summary of OLS regression results
+Variance Inflation Factor analysis
+Alternative Models performance
+Conclusions
+Project documentation
 
 ## Model Implementation & Evaluation
 1. Data Preprocessing
@@ -68,6 +66,7 @@ The dataset consists of various features that influence the price of houses. The
 - Try non-linear models like XGBoost or Neural Networks for better predictions.
 
 ## Author
-Sweety Seelam
-Feel free to contribute, raise issues, or reach out for collaboration at sweetyrao670@gmail.com.
+Sweety Seelam.
+
+Feel free to contribute, raise issues, or reach out for collaboration. For further queries, you can contact me at sweetyrao670@gmail.com.
 
