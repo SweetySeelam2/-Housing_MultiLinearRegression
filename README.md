@@ -20,17 +20,17 @@ The dataset consists of various features that influence the price of houses. The
 - Price: The target variable (dependent variable) representing the cost of the house
 
 ## Project Structure
-Dataset files (if applicable)
-Visualizations and model performance plots
-Scatter plot of actual vs predicted values
-Categorical variable boxplots
-Residual histogram
-MSE and R-squared scores across models
-Summary of OLS regression results
-Variance Inflation Factor analysis
-Alternative Models performance
-Conclusions
-Project documentation
+- Dataset files (if applicable)
+- Visualizations and model performance plots
+- Scatter plot of actual vs predicted values
+- Categorical variable boxplots
+- Residual histogram
+- MSE and R-squared scores across models
+- Summary of OLS regression results
+- Variance Inflation Factor analysis
+- Alternative Models performance
+- Conclusions
+- Project documentation
 
 ## Model Implementation & Evaluation
 1. Data Preprocessing
